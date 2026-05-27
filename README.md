@@ -1,115 +1,21 @@
-<div align="center">
+# 💫 About Me:
+I am currently pursuing an Honors BSc in Cyber Forensics with a focus on Cyber Security, Game Development, and Web Development. My academic path is driven by a strong interest in how technology works, how systems can be secured, and how digital experiences are built.<br><br>I have hands-on experience with HTML, CSS, JavaScript, and front-end design, creating responsive and user-focused web interfaces using React. I enjoy turning ideas into functional designs while continuously improving my coding practices and understanding of modern development tools.<br><br>Alongside development, I actively explore AI tools and security tools to understand emerging threats, digital investigation techniques, and secure development practices. My learning approach is curiosity-driven — I experiment, build, and refine through practice.<br><br>And I have completed a internship in designing Webpages in React js <br><br>I am currently seeking an entry-level opportunity where I can contribute, learn from experienced professionals, and grow in the fields of cybersecurity and development.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there+👋;I'm+Alex+Renny;Cyber+Forensics+Student;Cybersecurity+Enthusiast;React+Developer;Always+Learning+🚀"/>
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__alex___001__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-renny) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.alex112524@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alex-renny&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=alex-renny&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alex-renny&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 💫 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 Honors BSc in **Cyber Forensics**
-
-💻 Passionate about:
-
-- Cyber Security
-- Web Development
-- Game Development
-- AI Technologies
-- Digital Investigation
-
-🚀 I enjoy creating:
-
-- Responsive web applications
-- Modern React interfaces
-- Secure digital solutions
-- Interactive user experiences
-
-🛠 Current focus:
-
-```javascript
-const alex = {
-    learning:[
-        "Cyber Security",
-        "React Ecosystem",
-        "AI Tools",
-        "Secure Development"
-    ],
-
-    goal:"Build impactful projects and grow as a developer"
-}
-```
-
-✨ Completed internship in **React Webpage Designing**
-
-🎯 Looking for:
-
-> Entry-level opportunities in Cyber Security and Development
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alex-renny&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=alex-renny&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://instagram.com/__alex___001__">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="https://linkedin.com/in/alex-renny">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:mr.alex112524@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,vite,figma,git,github,vercel"/>
-
-</div>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alex-renny&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-renny&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-renny&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alex-renny&theme=tokyo-night"/>
-
----
-
-<div align="center">
-
-### "Code • Learn • Build • Secure"
-
-<img src="https://komarev.com/ghpvc/?username=alex-renny&color=blueviolet&style=for-the-badge"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
