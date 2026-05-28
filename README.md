@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Alex+Renny+%F0%9F%91%8B;Cyber+Forensics+%26+Security+Specialist;Full-Stack+Web+Developer;Game+Development+Enthusiast;Let's+Build+Something+Secure+%F0%9F%94%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Alex+Renny+%F0%9F%91%8B;Cyber+Forensics+%26+Security+Specialist;Front-End+Web+Developer;Game+Development+Enthusiast;Let's+Build+Something+Secure+%F0%9F%94%92" alt="Typing SVG" />
   
   <!-- Gradient Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -31,7 +31,7 @@
   
   🎯 **Open to entry-level opportunities** in Cybersecurity & Full-Stack Development
   
-  📍 *Curiosity-driven developer — I experiment, build, and refine through practice*
+  > *Curiosity-driven developer passionate about building, learning, and improving through real-world experimentation.*
 
 </td>
 <td width="30%" align="center">
@@ -43,10 +43,10 @@
 </table>
 
 </div>
-
+<br/>
 <!-- Animated Wave Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:8a2be2&height=120&section=header" width="100%"/>
 </p>
 
 <!-- Stats Cards with Hover Effect -->
@@ -68,25 +68,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex-renny&custom_title=Alex's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&radius=16" width="100%" alt="activity graph"/>
 </p>
 
-<!-- Top Contributed Repo -->
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=alex-renny&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="top contributed repos"/>
-</p>
-
 <!-- Animated Wave Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:8a2be2&height=120&section=header" width="100%"/>
 </p>
 
 <!-- Tech Stack with Glowing Cards -->
-<h2 align="center">💻 Technology Arsenal</h2>
+<h2 align="center">💻 Technology Arsenal</h2><br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e&color=E34F26" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a2e&color=1572B6" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e&color=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e&color=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e&color=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a2e&color=339933" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a2e&color=646CFF" alt="Vite"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a2e&color=FFCA28" alt="Firebase"/>
@@ -101,7 +95,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white&labelColor=1a1a2e&color=CA4245" alt="React Router"/>
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&labelColor=1a1a2e&color=EC5990" alt="React Hook Form"/>
 </p>
-
+<br/>
 <!-- Connect Section with Neon Effect -->
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -117,20 +111,15 @@
   </a>
 </p>
 
-<!-- Professional Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20not%20a%20product,%20but%20a%20process.%20Code%20secure,%20build%20confident.&author=Alex%20Renny" width="70%" alt="security quote"/>
-</p>
-
-<!-- Trophy Case -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alex-renny&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="trophies"/>
-</p>
-
+<br/>
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:0D1117&height=2&section=footer&text=&fontSize=0" width="100%"/>
   <br>
   <sub>💼 Open to opportunities • 🚀 Always learning • 🔐 Security-focused development</sub>
 </p>
+
+<br/><br/>
+
+<!-- Top Contributed Repo - Moved to Bottom -->
+<h2 align="center">🔥 Top Contributed Repositories</h2>
