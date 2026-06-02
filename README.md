@@ -11,7 +11,7 @@
 <!-- Animated About Section -->
 <div align="left">
   
-## 💫 About Me
+## 🪪 About Me
 
 <table>
 <tr>
@@ -19,19 +19,19 @@
 
   🎓 Pursuing **Honors BSc in Cyber Forensics** — specializing in **Cybersecurity**, **Game Development**, and **Web Development**
   
-  🔒 Passionate about **digital forensics**, **secure development**, and **emerging cyber threats**
+  > Passionate about **digital forensics**, **secure development**, and **emerging cyber threats**
   
-  ⚛️ Hands-on experience building responsive UIs with **React.js**, **HTML5**, **CSS3**, and **JavaScript**
+  > Hands-on experience building responsive UIs with **React.js**, **HTML5**, **CSS3**, and **JavaScript**
   
-  🤖 Actively exploring **AI-powered security tools** and modern defense strategies
+  > Actively exploring **AI-powered security tools** and modern defense strategies
   
-  🎮 Game development enthusiast — bridging creativity with technical precision
+  > Game development enthusiast — bridging creativity with technical precision
   
-  💼 Completed a professional **React.js Web Development Internship**
+  > Completed a professional **React.js Web Development Internship**
   
-  🎯 **Open to entry-level opportunities** in Cybersecurity & Full-Stack Development
+  > **Open to entry-level opportunities** in Cybersecurity & Full-Stack Development
   
-  > *Curiosity-driven developer passionate about building, learning, and improving through real-world experimentation.*
+  :- *Curiosity-driven developer passionate about building, learning, and improving through real-world experimentation.*
 
 </td>
 <td width="30%" align="center">
@@ -116,10 +116,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:0D1117&height=2&section=footer&text=&fontSize=0" width="100%"/>
   <br>
-  <sub>💼 Open to opportunities • 🚀 Always learning • 🔐 Security-focused development</sub>
+  <sub> Open to opportunities •  Always learning •  Security-focused development</sub>
 </p>
 
 <br/><br/>
 
 <!-- Top Contributed Repo - Moved to Bottom -->
-<h2 align="center">🔥 Top Contributed Repositories</h2>
+<h2 align="center"> Top Contributed Repositories</h2>
