@@ -11,7 +11,7 @@
 <!-- Animated About Section -->
 <div align="left">
   
-## 🪪 About Me
+## 💫 About Me
 
 <table>
 <tr>
